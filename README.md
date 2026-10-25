@@ -25,7 +25,9 @@ print() exibe mensagens na tela.
 f'2 + 2 = {2+2}' utiliza uma f-string para calcular a soma de 2 + 2 e exibir o resultado.
 
 Saída esperada:
-
+```
 Sejam bem-vindos!
 Calculadora
 2 + 2 = 4
+```
+
